@@ -11,10 +11,12 @@ I'm passionate about technology, programming, and building projects that solve r
 - **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Projects
-- 🌊 **AI-Based Coastal Risk Mapping** — Exploring AI and geospatial data for coastal risk assessment.
-- 📰 **Fake News Detection** — Exploring NLP and machine learning for news classification.
-- 🌿 **Plant Leaf Disease Detection** — Exploring computer vision for plant disease identification.
+### 🔐 Face Liveness Detection
+A browser-based face liveness detection web application with authentication and camera-based liveness checks.
 
+**Technologies:** HTML, CSS, JavaScript, face detection models.
+
+🔗 [View Project on GitHub](https://github.com/supriya-cell06/face-liveness-detection)
 ### 🌱 Currently Working On
 - Improving my programming skills
 - Building practical AI and web development projects
